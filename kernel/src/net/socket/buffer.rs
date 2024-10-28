@@ -1,6 +1,6 @@
 use alloc::vec::Vec;
 
-use alloc::{string::String, sync::Arc};
+use alloc::sync::Arc;
 use system_error::SystemError;
 
 use crate::libs::spinlock::SpinLock;
